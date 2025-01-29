@@ -16,7 +16,7 @@ col1, col2 = st.columns([1, 3])
 
 # Profile picture in the first column
 with col1:
-    st.image("CV picture.jpeg", caption="This is ME", use_container_width=True)
+    st.image("Day3/CV picture.jpeg", caption="This is ME", use_container_width=True)
 
 # Main content in the second column
 with col2:
